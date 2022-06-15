@@ -1,0 +1,15 @@
+C:\Users\vitoria.pacheco\source\repos\Interface_curriculo\Interface_curriculo\bin\Debug\Interface_curriculo.exe.config
+C:\Users\vitoria.pacheco\source\repos\Interface_curriculo\Interface_curriculo\bin\Debug\Interface_curriculo.exe
+C:\Users\vitoria.pacheco\source\repos\Interface_curriculo\Interface_curriculo\bin\Debug\Interface_curriculo.pdb
+C:\Users\vitoria.pacheco\source\repos\Interface_curriculo\Interface_curriculo\obj\Debug\Interface_curriculo.csproj.AssemblyReference.cache
+C:\Users\vitoria.pacheco\source\repos\Interface_curriculo\Interface_curriculo\obj\Debug\Interface_curriculo.Properties.Resources.resources
+C:\Users\vitoria.pacheco\source\repos\Interface_curriculo\Interface_curriculo\obj\Debug\Interface_curriculo.csproj.GenerateResource.cache
+C:\Users\vitoria.pacheco\source\repos\Interface_curriculo\Interface_curriculo\obj\Debug\Interface_curriculo.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.pacheco\source\repos\Interface_curriculo\Interface_curriculo\obj\Debug\Interface_curriculo.exe
+C:\Users\vitoria.pacheco\source\repos\Interface_curriculo\Interface_curriculo\obj\Debug\Interface_curriculo.pdb
+C:\Users\vitoria.pacheco\source\repos\Interface_curriculo\Interface_curriculo\obj\Debug\Interface_curriculo.TxtInterface.resources
+C:\Users\vitoria.pacheco\source\repos\Interface_curriculo\Interface_curriculo\obj\Debug\Interface_curriculo.FormLogin.resources
+C:\Users\vitoria.pacheco\source\repos\Interface_curriculo\Interface_curriculo\obj\Debug\Interface_curriculo.InfoPesquisa.resources
+C:\Users\vitoria.pacheco\source\repos\Interface_curriculo\Interface_curriculo\obj\Debug\Interface_curriculo.RfmMenu.resources
+C:\Users\vitoria.pacheco\source\repos\Interface_curriculo\Interface_curriculo\obj\Debug\Interface_curriculo.Sobre1.resources
+C:\Users\vitoria.pacheco\source\repos\Interface_curriculo\Interface_curriculo\obj\Debug\Interface_curriculo.MudarSenha.resources
