@@ -1,0 +1,10 @@
+C:\Users\vitoria.pacheco\source\repos\cobra\cobra\bin\Debug\cobra.exe.config
+C:\Users\vitoria.pacheco\source\repos\cobra\cobra\bin\Debug\cobra.exe
+C:\Users\vitoria.pacheco\source\repos\cobra\cobra\bin\Debug\cobra.pdb
+C:\Users\vitoria.pacheco\source\repos\cobra\cobra\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\vitoria.pacheco\source\repos\cobra\cobra\obj\Debug\cobra.Form1.resources
+C:\Users\vitoria.pacheco\source\repos\cobra\cobra\obj\Debug\cobra.Properties.Resources.resources
+C:\Users\vitoria.pacheco\source\repos\cobra\cobra\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\vitoria.pacheco\source\repos\cobra\cobra\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.pacheco\source\repos\cobra\cobra\obj\Debug\cobra.exe
+C:\Users\vitoria.pacheco\source\repos\cobra\cobra\obj\Debug\cobra.pdb

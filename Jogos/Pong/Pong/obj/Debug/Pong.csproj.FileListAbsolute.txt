@@ -1,0 +1,10 @@
+C:\Users\vitoria.pacheco\source\repos\Pong\Pong\bin\Debug\Pong.exe.config
+C:\Users\vitoria.pacheco\source\repos\Pong\Pong\bin\Debug\Pong.exe
+C:\Users\vitoria.pacheco\source\repos\Pong\Pong\bin\Debug\Pong.pdb
+C:\Users\vitoria.pacheco\source\repos\Pong\Pong\obj\Debug\Pong.csproj.AssemblyReference.cache
+C:\Users\vitoria.pacheco\source\repos\Pong\Pong\obj\Debug\Pong.Form1.resources
+C:\Users\vitoria.pacheco\source\repos\Pong\Pong\obj\Debug\Pong.Properties.Resources.resources
+C:\Users\vitoria.pacheco\source\repos\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.cache
+C:\Users\vitoria.pacheco\source\repos\Pong\Pong\obj\Debug\Pong.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.pacheco\source\repos\Pong\Pong\obj\Debug\Pong.exe
+C:\Users\vitoria.pacheco\source\repos\Pong\Pong\obj\Debug\Pong.pdb
